@@ -27,12 +27,12 @@ Machine learning classification of pulsar candidates from UCI Machine Learning R
   - Decision Tree
 
 ### Deliverables
-  - [ ] Jupyter notebook pushed to Github
-  - [ ] EDA notebook
-  - [ ] README.md file in the GitHub repository that describes the nature and contents of the repository
-  - [ ] "Executive Summary" slide deck/presentation
-  - [ ] notebook contains well-formatted, professional looking markdown cells explaining any substantial code
-  - [ ] notebook is written to technical audiences with a way to both understand your approach and reproduce your results
+  - [x] Jupyter notebook pushed to Github
+  - [x] EDA notebook
+  - [x] README.md file in the GitHub repository that describes the nature and contents of the repository
+  - [x] "Executive Summary" slide deck/presentation
+  - [x] notebook contains well-formatted, professional looking markdown cells explaining any substantial code
+  - [x] notebook is written to technical audiences with a way to both understand your approach and reproduce your results
 
 
 ### External Project Links
