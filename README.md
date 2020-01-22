@@ -2,9 +2,9 @@
 Machine learning classification of pulsar candidates from UCI Machine Learning Repository's HTRU2 data.
 
 ### Data
-Source: https://archive.ics.uci.edu/ml/datasets/HTRU2
-Size: 17898 rows × 9 columns
-Constraints: This data did not include the frequency range in which each signal was captured, nor time of capture. Had this been included, I would have sought to investigate survey efficiency over time.
+  - Source: https://archive.ics.uci.edu/ml/datasets/HTRU2
+  - Size: 17898 rows × 9 columns
+  - Constraints: This data did not include the frequency range in which each signal was captured, nor time of capture. Had this been included, I would have sought to investigate survey efficiency over time.
 
 ### Stack
   - python
